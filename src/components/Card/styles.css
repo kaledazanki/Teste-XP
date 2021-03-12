@@ -1,0 +1,21 @@
+.containerCard{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    width: 100%;
+    align-items: center;
+}
+#cardMusic{
+    background-color: #fff;
+    width: 100%;
+    height: 400px;
+}
+#playButton{
+    width: 100px;
+    height: 100px;
+    padding: 20px;
+}
+#playButton:hover{
+    background-image: none;
+ 
+}

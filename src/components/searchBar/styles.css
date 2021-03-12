@@ -1,0 +1,25 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+    width: 100%;
+    font-family: Roboto;
+    align-self: center;
+}
+.container label{
+    color: #989898;
+    font-size: 12px;
+}
+#searchBar{
+    width: 70%;
+    height: 50px;
+    font-size: 30px;
+    border: 1px solid transparent;
+    align-self: start;
+    background-color: transparent;
+    color: #989898;
+    border-bottom: 1px solid #989898;
+}
+#searchBar:focus{
+    outline: none;
+}

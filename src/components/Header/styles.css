@@ -1,0 +1,11 @@
+#headerContainer{
+   width: 40%;
+   height: 100%;
+    
+}
+#imgDimension{
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+    margin: 5% 0px 3% 10%;
+}
